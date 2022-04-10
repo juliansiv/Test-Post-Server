@@ -2,7 +2,7 @@
 Este es un pequeño testeador de POST en PHP
 
 # Para que?
-Especificamente lo hago para probar los webhooks de Planner
+Especificamente lo hago para probar request POST en formato json
 
 # uso
 * php -S localhost:5000 webhook_server.php
